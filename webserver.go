@@ -3,6 +3,10 @@ import "fmt"
 import "net/http"
 import "io"
 
+//hämta mätvärde från arduinon
+//visa upp mätvärde
+
+
 func HelloServer(w http.ResponseWriter, req *http.Request) {
 	io.WriteString(w, "hello, world!\n")
 }

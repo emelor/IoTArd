@@ -1,3 +1,7 @@
+//Fejka/hämta mätvärde
+//Skriv ut mätvärde i JSON-format
+
+
 /*
   Web  Server
 
